@@ -1,0 +1,24 @@
+{
+	"choices": [
+		{
+			"finish_reason": "stop",
+			"index": 0,
+			"message": {
+				"content": "1. Question: Can you explain how you would implement a RESTful API using Spring Boot? Please describe the key components and configurations you would use.\n\n2. Question: How have you utilized design patterns in your Java projects? Can you provide an example of a specific pattern you've implemented and the benefits it brought to the project?\n\n3. Question: Describe your experience with unit testing in Java. How do you ensure comprehensive test coverage, and what tools or frameworks have you used for this purpose?\n\nThese questions aim to assess the candidate's practical experience with Java frameworks, design patterns, and testing methodologies, which are crucial skills for a Java developer with 2 years of experience.",
+				"role": "assistant"
+			}
+		}
+	],
+	"created": 1754199805,
+	"created_at": "2025-08-03T05:43:26.436Z",
+	"id": "chatcmpl-c57f52de101fe9e655de02c060af81fd---8a86ef92-8c58-4aa3-856b-ba034a664230",
+	"model": "ibm/granite-3-8b-instruct",
+	"model_id": "ibm/granite-3-8b-instruct",
+	"model_version": "1.1.0",
+	"object": "chat.completion",
+	"usage": {
+		"completion_tokens": 147,
+		"prompt_tokens": 651,
+		"total_tokens": 798
+	}
+}
